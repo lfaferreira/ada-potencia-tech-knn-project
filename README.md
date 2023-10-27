@@ -49,7 +49,7 @@ A seguir uma lista de ferramentas e frameworks utilizados no projeto:
 
 Precisávamos classificar clientes de acordo com os valores de seus últimos pedidos, utilizando o método de KNN, ou K-nearest neighbours, onde, a partir da classificação de seus K vizinhos, classificaríamos os novos clientes de acordo com seus últimos gastos na plataforma.
 
-De início, a primeira dificuldade encontrada foi entender o problema através dos dados fornecidos e da teoria do algoritmo de Machine Learning. Tivemos divergências interpretativas de como proceder inicialmente, mas as dúvidas foram sanadas com o auxílio da professora e, a partir daí, fomos esboçar o nosso código.
+A primeira dificuldade encontrada foi entender o problema através dos dados fornecidos e da teoria do algoritmo de Machine Learning. Tivemos divergências interpretativas de como proceder inicialmente, mas as dúvidas foram sanadas com o auxílio da professora e, a partir daí, fomos esboçar o nosso código.
 
 ## 5. Contribuições
 
@@ -62,8 +62,6 @@ Destacamos as principais competências utilizadas nesse projeto a seguir:
 - Lógica Matemática
 - Leitura e Interpretação do Problema
 - Domínio do Método KNN
-- Programação - Python
-- GitHub
 
 ## 6. Resultados
 
